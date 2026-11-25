@@ -1,4 +1,4 @@
-# Varför utvecklingen av generell AI är en besinningslös risk
+# Varför utvecklingen av generell AI är en risk vi inte bör ta
 
 *En logisk genomgång av varför superintelligens inte är science fiction – och varför vi varken kan förutsäga, genomskåda eller kontrollera den.*
 
@@ -71,3 +71,5 @@ Drar man resonemanget till sin logiska spets blir slutsatsen svår att komma und
 Eftersom mjukvara kan kopieras på sekunder kan en sådan gräns bara upprätthållas genom att kontrollera de fysiska flaskhalsarna: de specialiserade chip, unika tillverkningskedjor och jättelika elanläggningar som krävs för att träna spetsmodeller. Precis som inom flyg- och kärnkraftsindustrin borde bevisbördan vara omvänd, med krav på verifierad säkerhet och bindande internationella inspektioner innan någon tillåts passera nya kapacitetsgränser.
 
 Geopolitisk misstro gör det tyvärr osannolikt att världen frivilligt drar i nödbromsen i tid. Men det gör inte risken mindre verklig. När man bara får ett enda försök, och ett enda misstag kan vara oåterkalleligt för all framtid, är förhoppningen om att det nog löser sig längs vägen ingen strategi – det är ett besinningslöst hasardspel med hela mänskligheten som insats.
+
+---
